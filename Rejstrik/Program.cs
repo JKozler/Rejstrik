@@ -29,6 +29,7 @@ namespace Rejstrik
                     {
                         Console.Write(itemy + ", ");
                     }
+                    Console.WriteLine();
                     Console.WriteLine("Dokončeno, najdete v souboru rejstrik.txt");
                 }
             }
